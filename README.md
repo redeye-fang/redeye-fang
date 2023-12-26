@@ -4,6 +4,8 @@
     <img src="https://komarev.com/ghpvc/?username=redeye-fang&style=flat&color=00FFFF" />
 </div>
 
+<img align='right' src='https://github.com/redeye-fang/redeye-fang/blob/main/octocat.png' width='300'>
+
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 <p>I'm a computer science graduate with a passion for crafting elegant code and exploring the dynamic landscape of technology. As a dedicated software developer, I thrive on the excitement of embracing new challenges and staying on the cutting edge of the latest software trends. Join me on this coding journey where innovation meets elegance, and let's build something extraordinary together! 💻✨</p>
@@ -11,6 +13,9 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=30&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&random=true&width=450&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BBAwe-inspiring+Coder;%F0%9F%8E%AEFromsoft+Fanboy;%E2%98%95Coffee+Alchemist;%F0%9F%8D%BABeer+Craftsmith;%F0%9F%94%90CyberSec+Connoisseur" alt="Typing SVG" />
   </a>
 </p>
+
+<br>
+<br>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/sagar-reddy-n/">
@@ -44,32 +49,7 @@
 ### Others
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black") ![Bash](https://img.shields.io/badge/gnu%20bash-%234EAA25.svg?&style=for-the-badge&logo=gnu%20bash&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/microsoft%20office-%23D83B01.svg?&style=for-the-badge&logo=microsoft%20office&logoColor=white)  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        .extras {
-          display: flex;
-          justify-content: space-between;
-        }
-        .dev-content {
-          flex: 1;
-          margin: 20px;
-        }
-      </style>
-      <div class="extras">
-        <div class="dev-content">
-            <h3>✍️ Random Dev Quote</h3>
-            <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote">
-        </div>
-        <div class="dev-content">
-            <h3>😂 Random Dev Meme</h3>
-            <img src="https://randommeme-five.vercel.app/" style="height: 400px;" alt="Random Dev Meme">
-        </div>
-      </div>
-    </div>
-  </foreignObject>
-</svg>
-
-
----
+<div class="dev-content">
+    <h3>😂 Meme just for you 💗</h3>
+    <img src="https://randommeme-five.vercel.app/" style="height: 400px;" alt="Random Dev Meme">
+</div>
